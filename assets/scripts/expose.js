@@ -22,7 +22,7 @@ function init() {
     }
   });
   
-  let volumeNum = 0;
+  let volumeNum = 50;
   const volume = document.querySelector('#volume-controls');
   volume.addEventListener('change', (event) => {
     const image = document.querySelectorAll('img')[1]
