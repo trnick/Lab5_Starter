@@ -4,6 +4,6 @@ Nicholas Tran
 
 https://github.com/trnick/introduction-to-github
 
-Expose: http://127.0.0.1:5500/expose.html
+Expose: https://trnick.github.io/Lab5_Starter/expose
 
-Explore: http://127.0.0.1:5500/explore.html
+Explore: https://trnick.github.io/Lab5_Starter/explore
